@@ -50,4 +50,4 @@ GigFlow is a full-stack freelance marketplace platform where Clients can post jo
 1.  **Client:** Register a user (e.g., "Client"). Post a new Gig.
 2.  **Freelancer:** Open Incognito mode. Register a new user (e.g., "Dev"). Bid on the Gig.
 3.  **Hiring:** Back in the Client window, view the Gig and click **"Hire"**.
-4.  **Verification:** The Gig status changes to "Assigned" (Closed), and the Freelancer sees a "Congratulations" banner.
+4.  **Verification:** The Gig status changes to "Assigned" (Closed).
